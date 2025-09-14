@@ -1,0 +1,1 @@
+The RAG agent is a type of AI agent that can retrieve information from a knowledge base and use it to answer questions.
